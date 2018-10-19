@@ -9,6 +9,8 @@
 # General
 #
 
+source ~/.bash_profile
+
 # Set case-sensitivity for completion, history lookup, etc.
 # zstyle ':prezto:*:*' case-sensitive 'yes'
 
